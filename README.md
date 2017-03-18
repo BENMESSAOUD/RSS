@@ -122,3 +122,7 @@ class MockConnector: Connector {
 }
 ```
 - Couche Présentation : L'interface de l'application est trés simple et basique. Il se compose d'un UITableViewController _NewsTableViewController_ pour afficher la liste des actualités du flux. Et un UIViewController _DetailNewsViewController_ pour afficher le détail d'une actualité. L'implémentation de ces deux interfaces est trés simple.
+
+##### Temps de réalisation du projet
+- Développement : ~ 7h
+- Documentation : ~ 4h
