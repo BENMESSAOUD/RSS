@@ -1,15 +1,13 @@
 # Context
----
 - - - -
 L'application News a été développée dans le cadre d'un test technique demandé par [Sprint Technology](http://www.sprintechnology.com/).
 # A propos de News
----
 - - - -
 ![Swift 3.0+](https://img.shields.io/badge/Swift-3.0+-orange.svg) ![Platform](https://img.shields.io/badge/platforms-iOS%2010.0+-333333.svg) ![Devices](https://img.shields.io/badge/Device-iPhone%20|%20iPad-333333.svg)
+
 News est une application qui permet d'afficher les actualités à la une à partir d'un [flux RSS](http://www.lemonde.fr/rss/une.xml).
 ![picture alt](https://drive.google.com/uc?export=view&id=0Bz7VLJsUViniUEtIb2ZiMFpTakU "Liste des actualités") ![picture alt](https://drive.google.com/uc?export=view&id=0Bz7VLJsUViniZGhReHgtRFphM1E "Détails d'une actualité")
 # Détails techniques
----
 - - - -
 ### Language et outils de développement
 ---
