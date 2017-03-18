@@ -1,0 +1,30 @@
+PODS:
+  - Kingfisher (3.5.2)
+  - SwiftyXMLParser (3.0.0)
+
+DEPENDENCIES:
+  - Kingfisher (from `https://github.com/onevcat/Kingfisher.git`, branch `master`)
+  - SwiftyXMLParser (from `https://github.com/yahoojapan/SwiftyXMLParser.git`)
+
+EXTERNAL SOURCES:
+  Kingfisher:
+    :branch: master
+    :git: https://github.com/onevcat/Kingfisher.git
+  SwiftyXMLParser:
+    :git: https://github.com/yahoojapan/SwiftyXMLParser.git
+
+CHECKOUT OPTIONS:
+  Kingfisher:
+    :commit: 54351b1e5340affb783531fad59af70fea06075f
+    :git: https://github.com/onevcat/Kingfisher.git
+  SwiftyXMLParser:
+    :commit: fd72bb66b4f90e759927c0fd5265167b27f3da4e
+    :git: https://github.com/yahoojapan/SwiftyXMLParser.git
+
+SPEC CHECKSUMS:
+  Kingfisher: 363ca766cf314bac6968e1274e407a74fdef2862
+  SwiftyXMLParser: 8d2295fb4fbc6e2ff241e7c8d7717e159be35969
+
+PODFILE CHECKSUM: 0458486aacc621446dedea73eda0546ad9be09d3
+
+COCOAPODS: 1.2.0
