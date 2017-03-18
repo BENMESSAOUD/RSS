@@ -1,0 +1,2 @@
+# RSS
+Test technique
